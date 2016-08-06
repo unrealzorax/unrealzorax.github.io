@@ -314,7 +314,30 @@ button.gamma-btn-sspause:before {
 }
 
 .video {
-    width: 853px;
-    height: 480px;
+    width: 760px;
+    height: 429px;
+    margin-right: 3px;
+    margin-bottom: 32px;
+    float: left;
+    
+}
+.video1 {
+    margin-bottom: 32px;
+    float: left;
+    
+}
+
+
+
+
+
+
+
+
+
+.63 {
+    margin-bottom: 80px;
+    margin-top: 80px;
+    padding: 30px;
     float: left;
 }
